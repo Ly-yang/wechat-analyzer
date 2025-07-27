@@ -280,9 +280,8 @@ db.articles.deleteMany({
 
 ## 📞 技术支持
 
-- 📧 邮箱: support@wechat-analyzer.com
-- 💬 微信群: 扫码加入技术交流群
-- 🐛 问题反馈: [GitHub Issues](https://github.com/your-repo/wechat-analyzer/issues)
+- 📧 邮箱: 2406662589@qq.com
+- 🐛 问题反馈: [GitHub Issues](https://github.com/Ly-yang/wechat-analyzer/issues)
 - 📖 在线文档: [https://docs.wechat-analyzer.com](https://docs.wechat-analyzer.com)
 
 ## 🎯 路线图
