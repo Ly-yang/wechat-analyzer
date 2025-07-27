@@ -280,4 +280,4 @@ db.articles.deleteMany({
 
 ## 📞 技术支持
 
-- 📧 邮箱: support@wechat-analyzer.
+- 📧 邮箱: 2406662589@qq.com.
